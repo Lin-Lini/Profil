@@ -1,0 +1,138 @@
+
+@media screen and (min-width:922px) {    
+    body{
+        font-family: Roboto;
+        max-width: 100%;
+    }
+    main{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .lead{
+        width: 550px;
+        font-size: 16px;
+    }
+    selector{
+        display: flex;
+        margin-left: 205px;
+    }
+    .mt-5{
+        font-size: 72px;
+    }
+    .card-text{
+        margin-top: -17px;
+    }
+    .card-title{
+        margin-bottom: 20px;
+    }
+    .container_2{
+        margin-left: 205px;
+    }
+    .table{
+        width: 1110px;
+        height: 551px;
+        margin-left: 205px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+    table, td, th {
+        border-collapse: collapse;
+        border: 2px solid #8a8a8a;
+    }
+}
+
+@media screen and (max-width:320px) {
+    body{
+        font-family: Roboto;
+        max-width: 320px;
+    }
+    main{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .lead{
+        width: 273px;
+        font-size: 16px;
+    }
+    selector{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 50px;
+        width: 350px;
+    }
+
+    .mt-5{
+        font-size: 48px;
+    }
+    .card-text{
+        margin-top: -17px;
+    }
+    .card-title{
+        margin-bottom: 20px;
+    }
+    .container_2{
+        margin-left: 10px;
+    }
+    .conteiner_3{
+        width: 1110px;
+        overflow: scroll;
+        height: 551px;
+    }
+    .table{
+        margin-left: 10px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    tab
+    table, td, th {
+        border-collapse: collapse;
+        border: 2px solid #8a8a8a;
+    }
+}
+
+@media screen and (max-width:992px){
+    body{
+        font-family: Roboto;
+        max-width: 992px;
+    }
+    main{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .lead{
+        width: 273px;
+        font-size: 16px;
+    }
+    selector{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 50px;
+        width: 288px;
+    }
+    .mt-5{
+        font-size: 48px;
+    }
+    .card-text{
+        margin-top: -17px;
+    }
+    .card-title{
+        margin-bottom: 20px;
+    }
+    .container_2{
+        margin-left: 10px;
+    }
+    .conteiner_3{
+        width: 1110px;
+        overflow: scroll;
+        height: 551px;
+    }
+    .table{
+        margin-left: 10px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    table, td, th {
+        border-collapse: collapse;
+        border: 2px solid #8a8a8a;
+    }
+}
